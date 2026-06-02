@@ -13,7 +13,7 @@ A neutral, inclusive and easy to learn & use language for communication across I
 - Maximum phonetic consistency
 - Maximum ease of learning for all Indian speakers
 - Community Driven
-- Bharati Script
+- Written in Bharati Script
 - Changes happen slowly
 
 ---
@@ -100,3 +100,7 @@ Naan saapadu saapidugiren
 3. Familiarity /10
 
 The Popularity score must be 6/10 or more, Ease score should be 5/10 or more, and the Familiarity score should be 4/10 or more for a word to be approved into the language.
+
+## Script
+
+The script chosen for Swarnami is the Bharati script, an existing script for unified letters across Indic languages. This script is optimal as it is easy to learn, and is not of any existing language identity. Credits to the Bharati Script team (predominantly at IIT Madras). Link to official Bharati website: https://bharatiscript.com/#
