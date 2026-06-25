@@ -35,10 +35,11 @@ For minor changes:
 3. Changes are added
 4. If issues are flagged, changes may be removed.
 
-The descision of what change is major or minor is up to contributors so far.
+The descision of what change is major or minor is up to contributors.
 
 ## 5. Amendments
-Formal (or informal, we don't mind) proposals must be sent to (at least) one of the moderators. They shall discuss with the other moderators to decide of changes in the Rulebook.
+Proposals must be sent to (at least) one of the moderators. They shall discuss with the other moderators to decide of changes in the Rulebook.
+From the moderator's end, amendments may be made any time, on it's own.
 
 ## 6. Selection of Moderators
 Moderators are trusted members who have contributed for a long time. More moderators will be selected as demand increases. So far, no concrete selection process is present.
