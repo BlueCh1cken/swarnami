@@ -27,7 +27,10 @@ Please include:
 - Details of the addition
 - A one line rationale for why this is suitable to the principles
 - Origin language family (if any)
-- A checklist of all the non-negotiable prerequisites, all adhered to:
-  1. Popularity /10
-  2. Ease of understanding /10
-  3. Familiarity /10
+- A checklist of all the non-negotiable prerequisites, all adhered to, shown below:
+
+---
+1. Popularity /10
+2. Ease of understanding /10
+3. Familiarity /10
+---
