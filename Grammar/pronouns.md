@@ -15,5 +15,5 @@ He | Ane | Austroasiatic {Santali - Uni}
 It/This/That | Ve | Indo-Aryan {eg. Hindi - Vah}
 Respect / They | Ke | Tibeto-Burman {Khasi - Ki}
 
-Please feel free to give feedback on these decided pronouns.
+Please feel free to give feedback on these decided pronouns. After a roughly stable period, the pronouns will be locked and exceptional justification for changes will be needed.
 
