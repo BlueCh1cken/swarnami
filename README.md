@@ -84,7 +84,7 @@ Naan saapadu saapidugiren
 
 ## Word Quotas
 
-- max. 50%, min. 30% Indo-European Roots.
+- max. 50%, min. 30% Indo-Aryan Roots.
 - max. 40%, min. 20% Dravidian.
 - max. 15%, min. 5% Sino-Tibetan.
 - max. 15%, min. 5% Austroasiatic.
