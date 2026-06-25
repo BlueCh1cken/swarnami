@@ -37,7 +37,7 @@ For minor changes:
 
 The descision of what change is major or minor is up to contributors.
 
-## 5. Amendments
+## 4. Amendments
 Proposals must be sent to (at least) one of the moderators. They shall discuss with the other moderators to decide of changes in the Rulebook.
 From the moderator's end, amendments may be made any time, on it's own.
 
