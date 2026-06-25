@@ -24,9 +24,10 @@ To brainstorm ideas, you can discuss in Github Discussions. Please be kind when 
 For concrete changes, you can submit a pull request. This is after the discussion processes are finished.
 Please include:
 - Type of addition to Swarnami (Word Order, Nouns, Verbs, etc.)
+- Origin language family (if any)
+- Statment if change is major or minor (see procedures in constitution for each)
 - Details of the addition
 - A one line rationale for why this is suitable to the principles
-- Origin language family (if any)
 - A checklist of all the non-negotiable prerequisites, all adhered to, shown below:
 
 ---
