@@ -9,7 +9,7 @@ A neutral, inclusive and easy to learn & use language for communication across I
 
 ## Key Principles
 
-- Never a 1st language (never making local languages obselete)
+- Never a 1st language (never making local languages obsolete)
 - Maximum regularity
 - Maximum phonetic consistency
 - Maximum ease of learning for all Indian speakers
