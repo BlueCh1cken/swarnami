@@ -1,4 +1,5 @@
 # Swarnami
+(NOTE: Everything in this GitHub Repository is subject to change)
 
 ## Goal
 
