@@ -3,7 +3,7 @@
 
 ## Goal
 
-A neutral, inclusive and easy to learn & use language for communication across India, whilst preserving the Indic identity.
+A neutral, inclusive and easy to learn & use language for communication across India, whilst preserving the Indic identity. This is NOT intended to replace any existing languages in India, and doing so goes very much against the very spirit and principals of this Language.
 
 ---
 
