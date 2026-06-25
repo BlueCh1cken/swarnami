@@ -1,5 +1,7 @@
 # Pronouns
 
+The pronouns follow one rule. They end with the suffix -e (IPA Pronounciation: e) Borrowed from all language families to have equality in this core part of the language. 
+
 The currently decided Pronouns are given below:
 
 Pronoun | Swarnami | Derived from
