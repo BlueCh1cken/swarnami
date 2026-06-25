@@ -43,3 +43,6 @@ From the moderator's end, amendments may be made any time, on it's own.
 
 ## 6. Selection of Moderators
 Moderators are trusted members who have contributed for a long time. More moderators will be selected as demand increases. So far, no concrete selection process is present.
+
+## MISCELLANEOUS:
+The Bharati script will be used as the official script. In the repository, most text will be transliterated as Bharati script doesn't have unicode support yet. It also makes it easier to plan with a QWERTY Keyboard. The International Phonetic Alphabet (IPA for short) will be used for pronounciations for complicated words. The use of this must be indicated before the pronounciation clarification.
