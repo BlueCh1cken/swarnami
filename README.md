@@ -64,7 +64,7 @@ I eat food
 
 ### Hindi
 
-Main khana khate hoon
+Main khana khata hoon
 
 - subject
 - object
@@ -72,7 +72,7 @@ Main khana khate hoon
 
 ### Tamil
 
-Naan saapadu saapidugiren
+Naan saapadu saapudugiren
 
 - subject
 - object
